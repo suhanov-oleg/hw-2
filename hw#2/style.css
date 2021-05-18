@@ -1,0 +1,33 @@
+.body{
+    background-color: teal;
+}
+
+.header{
+    color: red;
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+    font-weight: 700;
+    width: 500px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.header__inner{
+    color: dimgray;
+    font-size: 15px;
+    background-color: gold;
+    padding: 2px 5px;
+}
+
+.header__inner__shurik{
+    background-color:lightskyblue;
+    color: navy;
+    font-size: 18px;
+    text-align: justify;
+    width: 1000px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 2px 15px;
+
+}
